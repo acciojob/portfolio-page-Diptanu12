@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+img{
+	width:100px;
+	border-radius:50%;
+	margin:auto;
+	display:flex;
+}
+h1{
+	text-align:center;
+}
